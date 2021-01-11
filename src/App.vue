@@ -89,5 +89,6 @@ h1 {
   font-size: 5em;
   text-align: center;
   font-weight: 100;
+  color: #be2e14;
 }
 </style>
